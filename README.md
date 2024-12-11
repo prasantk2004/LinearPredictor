@@ -13,7 +13,7 @@ LinearPredictor is an interactive web application designed to help users build a
 2. **Create the Workspace**:
 
    ```bash  
-   daytona create url
+   daytona create https://github.com/prasantk2004/LinearPredictor.git
    ```
 
 3. **Start the Application**:
