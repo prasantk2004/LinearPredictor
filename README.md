@@ -1,4 +1,4 @@
-# Sample Streamlit
+# Sample Python/Streamlit
 
 LinearPredictor is an interactive web application designed to help users build and explore simple linear regression models. Users can upload their own datasets, choose predictor and response variables, and train a linear regression model. The app allows users to make predictions on new data, visualize the regression line, and evaluate model performance through interactive plots.
 
