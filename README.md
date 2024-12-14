@@ -26,13 +26,13 @@ LinearPredictor is an interactive web application designed to help users build a
 
 ## ✨ Features  
 
-- **CSV File Upload**: Easily upload your dataset (in CSV format).
-- **Variable Selection**: Select the predictor and response variables from your dataset.
-- **Train Model**: Build a simple linear regression model based on the selected variables.
-- **Prediction**: Input new values to predict the response variable.
-- **Scatter Plot**: Visualize the relationship between the predictor and response variables with a regression line.
-- **Residual Plot**: Evaluate model performance by viewing the residuals (errors) from the regression model.
-- **Interactive**: All steps are interactive, making it easy for users to experiment and understand the linear regression process.
+1. 📁 **Upload CSV File**: Easily upload your CSV file.
+2. 🔢 **Select Variables**: Choose independent ***(numerical variables only)*** and dependent variables.
+3. 📊 **View Model**: See the generated model equation, metrics, and visualizations.
+4. 🔮 **Predict**: Input a comma-separated vector (X) to make predictions.
+5. 📄 **Generate PDF Report**: Tick the box (Generate report as PDF) to get a PDF report of the model.
+
+🔴 Only **numerical variables** are supported.
 
 ## Screenshots
 
