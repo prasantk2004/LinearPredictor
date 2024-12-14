@@ -33,3 +33,20 @@ LinearPredictor is an interactive web application designed to help users build a
 - **Scatter Plot**: Visualize the relationship between the predictor and response variables with a regression line.
 - **Residual Plot**: Evaluate model performance by viewing the residuals (errors) from the regression model.
 - **Interactive**: All steps are interactive, making it easy for users to experiment and understand the linear regression process.
+
+## Screenshots
+
+**Upload csv file**
+![image](https://github.com/user-attachments/assets/af2a1080-d0d0-4bf2-86f2-a456ce3d6ba3)
+
+**Dataset and Model Preview**
+![image](https://github.com/user-attachments/assets/8932eb95-b5eb-4189-81e8-d20eb67aa2b8)
+
+**Visualisations**
+![image](https://github.com/user-attachments/assets/bf6c735f-4a55-4564-a0fd-e0770f63a5bc)
+
+**Predictions**
+![image](https://github.com/user-attachments/assets/fc8dd493-59b1-4f82-9885-42a92859aa55)
+
+**Generated pdf report**
+![image](https://github.com/user-attachments/assets/f3203a46-3be7-4451-ad82-cb66ba280660)
